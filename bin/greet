@@ -2,3 +2,4 @@
 require_relative "../lib/greeting.rb"
 
 name = gets.strip
+puts "Hi! I'm Hal, what's your name?"
